@@ -5,3 +5,5 @@
 * use Jupyter Notebook withour Anaconda
 
 * create and use virtual environment 
+
+* pull data with Binance API
